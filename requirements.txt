@@ -11,3 +11,12 @@ lapx>=0.5.5               # linear assignment (ByteTrack dependency)
 # Dev / notebook
 jupyterlab>=4.0.0
 ipython>=8.0.0
+
+gradio
+ultralytics
+opencv-python-headless
+numpy
+pandas
+matplotlib
+scipy
+yt-dlp
