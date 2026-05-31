@@ -1,0 +1,13 @@
+# Core
+ultralytics>=8.2.0        # YOLOv8 + ByteTrack built-in
+opencv-python>=4.9.0      # video I/O and drawing
+numpy>=1.24.0
+
+# Optional (for notebook + analytics)
+yt-dlp>=2024.1.1          # download public YouTube / web videos
+pandas>=2.0.0             # track inspection table in notebook
+lapx>=0.5.5               # linear assignment (ByteTrack dependency)
+
+# Dev / notebook
+jupyterlab>=4.0.0
+ipython>=8.0.0
